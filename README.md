@@ -6,3 +6,7 @@ You had more than 5 chances in various cheats and bases to prove your worth and 
 - spook953
 - Baan
 - M-FeD
+## Notes:
+- The cheat is for the old 32-bit binaries (pre 64-bit)
+- A lot of the code in this is either unoptimized or junk. There are STL asserts and crashes that will happen when compiled in debug mode.
+- CL_Move is completely busted, have fun trying to use doubletap.
